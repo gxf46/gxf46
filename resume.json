@@ -128,6 +128,6 @@
     },
     "theme": {
         "color": "#2f5785",
-        "tagColor": "#8bc34a"
+        "tagColor": "rgba(73, 103, 161, 1)"
     }
 }
