@@ -87,20 +87,7 @@
             "work_desc": "数据运营岗位\n1. 负责BI运营看板搭建\n2. 通过数据分析方法制定司机端运营策略，如分区域分时段司机跑单奖励、沉默司机召回、司机拉新等,策略效果复盘"
         }
     ],
-    "skillList": [
-        {
-            "skill_name": "hive",
-            "skill_level": 100,
-            "skill_desc": "SQL语言",
-            "dataIndex": 0
-        },
-        {
-            "skill_name": "hive",
-            "skill_level": 80,
-            "skill_desc": "Python/R",
-            "dataIndex": 1
-        }
-    ],
+    "skillList": [],
     "projectList": [
         {
             "project_name": "跨境电商支付渠道成本分析",
@@ -137,10 +124,10 @@
     ],
     "workList": [],
     "aboutme": {
-        "aboutme_desc": "1、3年数据分析师经验，在数据采集、数据清洗、数据模型方面经验丰富，统计分析基础扎实\n2、2年数据产品经理经验，金融支付等领域积累一定产品经验\n3、独立负责产品服务及项目经验，具备良好的项目统筹、团队协作、沟通能力"
+        "aboutme_desc": "1、3年数据分析师经验，在数据采集、清洗、建模等方面经验丰富，统计分析基础扎实\n2、2年数据产品经理经验，具备金融支付领域产品经验\n3、负责产品服务及项目经验，具备良好的项目统筹、团队协作能力"
     },
     "theme": {
         "color": "#2f5785",
-        "tagColor": "rgba(78, 112, 148, 1)"
+        "tagColor": "#8bc34a"
     }
 }
