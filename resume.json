@@ -9,7 +9,7 @@
         "aboutme": "个人评价"
     },
     "avatar": {
-        "src": "",
+        "src": "https://img.zcool.cn/community/01517457f455a9a84a0d304f31d826.jpg?imageMogr2/auto-orient/thumbnail/1280x%3e/sharpen/0.5/quality/100/format/webp",
         "hidden": false,
         "shape": "square"
     },
@@ -128,6 +128,6 @@
     },
     "theme": {
         "color": "#2f5785",
-        "tagColor": "rgba(60, 99, 168, 1)"
+        "tagColor": "rgba(66, 96, 155, 1)"
     }
 }
